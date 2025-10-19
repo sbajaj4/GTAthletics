@@ -26,9 +26,14 @@ Multiple models were tested to estimate the probability of a team winning given 
 ---
 
 ## Repository Structure
-College_Basketball_Data_Cleaning.ipynb — Data preprocessing and cleaning
-Win_Prob_XGBoost.ipynb — XGBoost model training and evaluation
-First_Logistic_Regression.ipynb — Baseline logistic regression model
+Games Data - Contains game data files by season
+College Basketball Data Cleaning V2.ipynb - Data preprocessing and cleaning
+College Basketball Data CleaningV1.ipynb - Initial data preprocessing and cleaning
+First_Logistic_Regression.ipynb - Initial logistic regression model
+README.md - Description file for the repository
+Win_Prob_Xgboost.ipynb - XGBoost model training and evaluation
+WinningPrediction.ipynb - Baseline logistic regression model for predicting whether the home team wins a given game
+winprobmodelSS.ipynb - Final summary and scaling study for the win probability model
 
 ---
 
